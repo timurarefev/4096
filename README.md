@@ -1,7 +1,7 @@
 # 4096
 After beating 2048 it seemed we can go up one more level. Lets try!
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+Made just for fun. [Play it here!](http://martijnkorteweg.github.io/4096/)
 
 ### Contributions
 
